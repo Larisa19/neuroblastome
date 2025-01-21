@@ -10,11 +10,11 @@ tfm
 |__results
 ## Use
 ### Analysis
-1. The sequencing files can be downloaded using fastq-dump:
+1. Downloading the fastq sequences, split files in R1 and R2 and zip them:
    
     fastq-dump SRR12904716 --split-files --gzip
    
-3. QC step was done with fastqc and save in the folder _fastqc-results_:
+3. QC step and save files in folder _fastqc-results_:
    
     fastqc *.gz --o fastqc_results
    
