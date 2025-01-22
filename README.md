@@ -32,9 +32,9 @@ The quality of the raw sequencing reads was assessed using **FASTQC**
 
 **Sequence Cleaning with [FastP](https://github.com/OpenGene/fastp)**  
 Sequence cleaning and preprocessing were performed using **FastP** with the following parameters:
-  **Minimum quality score: 30
-  **Adapter trimming: Enabled
-  **Minimum read length: 50
+  - Minimum quality score: 30
+  - Adapter trimming: Enabled
+  - Minimum read length: 50
 
 ## Analysis Workflow
 
