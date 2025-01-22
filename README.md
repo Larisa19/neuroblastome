@@ -17,9 +17,9 @@ Uncover insights that can contribute to better understanding, diagnosis, and pot
 
 * Source:
 
-Description:
+* Description:
 
-Preprocessing:
+* Preprocessing:
 
 ## Analysis Workflow
 
@@ -38,14 +38,14 @@ Summary: Include a brief discussion of the biological significance of your findi
 
 ## Citation 
 
-Dataset: [Source Name, Year, DOI]
-Tool: [Tool Name, Version, Citation]
+* Dataset: [Source Name, Year, DOI]
+* Tool: [Tool Name, Version, Citation]
 
 ## Autor
 
-Larisa Cortes Tolalpa
+* Larisa Cortes Tolalpa
 
-l.cortes.tolalpa@gmail.com
+* l.cortes.tolalpa@gmail.com
 
-GitHub:
+* GitHub:
 
