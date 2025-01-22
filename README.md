@@ -15,7 +15,7 @@ Uncover insights that can contribute to better understanding, diagnosis, and pot
 
 ## Dataset
 
-Source:
+* Source:
 
 Description:
 
@@ -29,6 +29,17 @@ Preprocessing:
 4. **Variant calling**
 5. **Annotation**
 6. **Filtering and visualization of variants**
+
+## Key results
+
+**Figure 1**.
+**Figure 2**.
+Summary: Include a brief discussion of the biological significance of your findings.
+
+## Citation 
+
+Dataset: [Source Name, Year, DOI]
+Tool: [Tool Name, Version, Citation]
 
 ## Autor
 
