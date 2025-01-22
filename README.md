@@ -32,9 +32,11 @@ Uncover insights that can contribute to better understanding, diagnosis, and pot
 
 ## Key results
 
-**Figure 1**.
-**Figure 2**.
-Summary: Include a brief discussion of the biological significance of your findings.
+* **Figure 1**.
+
+* **Figure 2**.
+
+* **Summary**: Include a brief discussion of the biological significance of your findings.
 
 ## Citation 
 
