@@ -27,10 +27,10 @@ Layout: PAIRED
 
 * Preprocessing:
 
-**Quality Control with [FASTQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)**  
+**Quality Control with [FASTQC]**  
 The quality of the raw sequencing reads was assessed using **FASTQC**
 
-**Sequence Cleaning with [FastP](https://github.com/OpenGene/fastp)**  
+**Sequence Cleaning with [FastP]**  
 Sequence cleaning and preprocessing were performed using **FastP** with the following parameters:
   - Minimum quality score: 30
   - Adapter trimming: Enabled
@@ -57,13 +57,13 @@ Sequence cleaning and preprocessing were performed using **FastP** with the foll
 
 * Dataset: Cimmino F, Lasorsa VA, Vetrella S, Iolascon A and Capasso M (2020) A Targeted Gene Panel for Circulating Tumor DNA Sequencing in Neuroblastoma. Front. Oncol. 10:596191. doi: 10.3389/fonc.2020.596191
   
-* Tool: [FastQC, versión 0.12.1]; [FastP, versión 0.23.4];
+* Tool: FastQC, versión 0.12.1, (https://www.bioinformatics.babraham.ac.uk/projects/fastqc/); FastP, versión 0.23.4, (https://github.com/OpenGene/fastp);
 
 ## Autor
 
-* Larisa Cortes Tolalpa
+**Larisa Cortes Tolalpa
 
-* l.cortes.tolalpa@gmail.com
+**l.cortes.tolalpa@gmail.com
 
-* GitHub:
+**GitHub:
 
