@@ -15,11 +15,26 @@ Uncover insights that can contribute to better understanding, diagnosis, and pot
 
 ## Dataset
 
-* Source:
-
-* Description:
+* Source: https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA672255
+  
+* Description: A targeted gene panel for circulating tumor DNA sequencing in neuroblastoma.
+  
+Instrument: NextSeq 500
+Strategy: Targeted-Capture
+Source: GENOMIC
+Selection: RANDOM
+Layout: PAIRED
 
 * Preprocessing:
+
+**Quality Control with [FASTQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)**  
+The quality of the raw sequencing reads was assessed using **FASTQC**
+
+**Sequence Cleaning with [FastP](https://github.com/OpenGene/fastp)**  
+Sequence cleaning and preprocessing were performed using **FastP** with the following parameters:
+  **Minimum quality score: 30
+  **Adapter trimming: Enabled
+  **Minimum read length: 50
 
 ## Analysis Workflow
 
@@ -40,8 +55,9 @@ Uncover insights that can contribute to better understanding, diagnosis, and pot
 
 ## Citation 
 
-* Dataset: [Source Name, Year, DOI]
-* Tool: [Tool Name, Version, Citation]
+* Dataset: Cimmino F, Lasorsa VA, Vetrella S, Iolascon A and Capasso M (2020) A Targeted Gene Panel for Circulating Tumor DNA Sequencing in Neuroblastoma. Front. Oncol. 10:596191. doi: 10.3389/fonc.2020.596191
+  
+* Tool: [FastQC, versión 0.12.1]; [FastP, versión 0.23.4];
 
 ## Autor
 
