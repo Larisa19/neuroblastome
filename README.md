@@ -61,9 +61,7 @@ Sequence cleaning and preprocessing were performed using **FastP** with the foll
 
 ## Autor
 
-**Larisa Cortes Tolalpa
-
-**l.cortes.tolalpa@gmail.com
-
-**GitHub:
+* Larisa Cortes Tolalpa
+* l.cortes.tolalpa@gmail.com
+* GitHub: Larisa19
 
