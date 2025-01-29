@@ -29,12 +29,13 @@ Layout: PAIRED
 
 **Quality Control with [FASTQC]**  
 The quality of the raw sequencing reads was assessed using **FASTQC**
+fastqc *.gz --o fastqc_results
 
 **Sequence Cleaning with [FastP]**  
 Sequence cleaning and preprocessing were performed using **FastP** with the following parameters:
-  - Minimum quality score: 30
-  - Adapter trimming: Enabled
-  - Minimum read length: 50
+  - Minimum quality score: 25
+  - Adapter trimming: Enabled (25 front and tail)
+  - Minimum read length: 151
 
 ## Analysis Workflow
 
