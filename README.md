@@ -38,6 +38,8 @@ Sequence cleaning and preprocessing were performed using **FastP** with the foll
   - Adapter trimming: Enabled (25 front and tail)
   - Minimum read length: 151
 
+The analysis was automated using the fastp_cleaning.sh script. This script checked for the existence of output files and skipped those already processed, ensuring efficient reanalysis when necessary.
+
 ## Analysis Workflow
 
 1. **Data Preprocessing**
