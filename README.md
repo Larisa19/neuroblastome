@@ -29,6 +29,7 @@ Layout: PAIRED
 
 **Quality Control with [FASTQC]**  
 The quality of the raw sequencing reads was assessed using **FASTQC**
+
 fastqc *.gz --o fastqc_results
 
 **Sequence Cleaning with [FastP]**  
